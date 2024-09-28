@@ -564,3 +564,14 @@ align-items: baseline;
 .form-wrapper {
     margin-bottom: 8px;
 }
+
+.button-close {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    background-color: black;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: none;
+}
